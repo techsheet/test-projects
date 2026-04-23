@@ -1,0 +1,33 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:23:55.025961675Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "HTML"
+    url: "https://techsheet.org/language/html"
+  - name: "Markdown"
+    url: "https://techsheet.org/language/markdown"
+  - name: "SCSS/SASS"
+    url: "https://techsheet.org/language/scss"
+  - name: "TypeScript"
+    url: "https://techsheet.org/language/typescript"
+    version: "5.9.2"
+frameworks:
+  - name: "Angular"
+    url: "https://techsheet.org/framework/angular"
+    category: "Application"
+    version: "20.3.0"
+services: []
+tools:
+  - name: "NPM"
+    url: "https://techsheet.org/tool/npm"
+    category: "Build"
+  - name: "EditorConfig"
+    url: "https://techsheet.org/tool/editorconfig"
+    category: "Format"
+  - name: "Visual Studio Code"
+    url: "https://techsheet.org/tool/vscode"
+    category: "IDE"
+  - name: "Git"
+    url: "https://techsheet.org/tool/git"
+    category: "VCS"
