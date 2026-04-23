@@ -1,0 +1,21 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:13.984709461Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "PHP"
+    url: "https://techsheet.org/language/php"
+frameworks:
+  - name: "Laravel"
+    url: "https://techsheet.org/framework/laravel"
+    category: "Application"
+    version: "11.5.2"
+  - name: "PHPUnit"
+    url: "https://techsheet.org/framework/phpunit"
+    category: "Testing"
+    version: "10.5"
+services: []
+tools:
+  - name: "Composer"
+    url: "https://techsheet.org/tool/composer"
+    category: "Build"

@@ -1,0 +1,13 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:22.993673428Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "Python"
+    url: "https://techsheet.org/language/python"
+frameworks:
+  - name: "Django"
+    url: "https://techsheet.org/framework/django"
+    category: "Application"
+services: []
+tools: []

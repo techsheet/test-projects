@@ -1,0 +1,26 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:00.102300544Z"
+  generatorVersion: "0.8.0"
+languages: []
+frameworks: []
+services: []
+tools:
+  - name: "CODEOWNERS"
+    url: "https://techsheet.org/tool/codeowners"
+    category: "CI"
+  - name: "GitLab CI"
+    url: "https://techsheet.org/tool/gitlab-ci"
+    category: "CI"
+  - name: "Docker"
+    url: "https://techsheet.org/tool/docker"
+    category: "Container"
+  - name: "Docker Compose"
+    url: "https://techsheet.org/tool/docker-compose"
+    category: "Container"
+  - name: "EditorConfig"
+    url: "https://techsheet.org/tool/editorconfig"
+    category: "Format"
+  - name: "Renovate"
+    url: "https://techsheet.org/tool/renovate"
+    category: "Security"

@@ -1,0 +1,15 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:24.894583766Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "Python"
+    url: "https://techsheet.org/language/python"
+    version: "3.12"
+frameworks:
+  - name: "FastAPI"
+    url: "https://techsheet.org/framework/fastapi"
+    category: "Application"
+    version: "0.115.0"
+services: []
+tools: []

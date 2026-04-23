@@ -1,0 +1,33 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:02.500573220Z"
+  generatorVersion: "0.8.0"
+languages: []
+frameworks:
+  - name: "Spring Boot"
+    url: "https://techsheet.org/framework/spring-boot"
+    category: "Application"
+    version: "4.0.5"
+  - name: "Spring WebFlux"
+    url: "https://techsheet.org/framework/spring-webflux"
+    category: "Application"
+  - name: "JUnit"
+    url: "https://techsheet.org/framework/junit"
+    category: "Testing"
+services: []
+tools:
+  - name: "Gradle"
+    url: "https://techsheet.org/tool/gradle"
+    category: "Build"
+    version: "9.4.1"
+    flavor: "Groovy DSL"
+  - name: "IntelliJ IDEA"
+    url: "https://techsheet.org/tool/intellij-idea"
+    category: "IDE"
+  - name: "JVM"
+    url: "https://techsheet.org/tool/jvm"
+    category: "Runtime"
+    version: "26"
+  - name: "Git"
+    url: "https://techsheet.org/tool/git"
+    category: "VCS"

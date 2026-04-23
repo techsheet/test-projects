@@ -1,0 +1,26 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:21.121688857Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "TypeScript"
+    url: "https://techsheet.org/language/typescript"
+frameworks:
+  - name: "Playwright"
+    url: "https://techsheet.org/framework/playwright"
+    category: "Testing"
+    version: "1.59.1"
+services: []
+tools:
+  - name: "NPM"
+    url: "https://techsheet.org/tool/npm"
+    category: "Build"
+  - name: "Yarn"
+    url: "https://techsheet.org/tool/yarn"
+    category: "Build"
+  - name: "GitHub Actions"
+    url: "https://techsheet.org/tool/github-actions"
+    category: "CI"
+  - name: "Git"
+    url: "https://techsheet.org/tool/git"
+    category: "VCS"

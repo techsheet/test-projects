@@ -1,0 +1,14 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:27.125467834Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "Python"
+    url: "https://techsheet.org/language/python"
+frameworks:
+  - name: "Flask"
+    url: "https://techsheet.org/framework/flask"
+    category: "Application"
+    version: "3.0.3"
+services: []
+tools: []

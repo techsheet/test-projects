@@ -1,0 +1,37 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:09.315017823Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "CSS"
+    url: "https://techsheet.org/language/css"
+  - name: "Markdown"
+    url: "https://techsheet.org/language/markdown"
+  - name: "TypeScript"
+    url: "https://techsheet.org/language/typescript"
+    version: "5"
+frameworks:
+  - name: "Next.js"
+    url: "https://techsheet.org/framework/nextjs"
+    category: "Application"
+    version: "16.2.4"
+  - name: "React"
+    url: "https://techsheet.org/framework/react"
+    category: "Application"
+    version: "19.2.4"
+  - name: "Tailwind CSS"
+    url: "https://techsheet.org/framework/tailwind"
+    category: "UI"
+    version: "4"
+services: []
+tools:
+  - name: "NPM"
+    url: "https://techsheet.org/tool/npm"
+    category: "Build"
+  - name: "ESLint"
+    url: "https://techsheet.org/tool/eslint"
+    category: "Format"
+    version: "9"
+  - name: "Git"
+    url: "https://techsheet.org/tool/git"
+    category: "VCS"

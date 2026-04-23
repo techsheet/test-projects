@@ -1,0 +1,32 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:04.641141480Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "Java"
+    url: "https://techsheet.org/language/java"
+    version: "17"
+frameworks:
+  - name: "Spring Boot"
+    url: "https://techsheet.org/framework/spring-boot"
+    category: "Application"
+    version: "3.5.13"
+  - name: "Spring Data"
+    url: "https://techsheet.org/framework/spring-data"
+    category: "Data"
+  - name: "Spring Security"
+    url: "https://techsheet.org/framework/spring-security"
+    category: "Security"
+services: []
+tools:
+  - name: "Maven"
+    url: "https://techsheet.org/tool/maven"
+    category: "Build"
+    version: "3.9.14"
+  - name: "JVM"
+    url: "https://techsheet.org/tool/jvm"
+    category: "Runtime"
+    version: "17"
+  - name: "Git"
+    url: "https://techsheet.org/tool/git"
+    category: "VCS"

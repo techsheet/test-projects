@@ -1,0 +1,22 @@
+schema: 1
+meta:
+  generatedAt: "2026-04-23T06:24:11.939424986Z"
+  generatorVersion: "0.8.0"
+languages:
+  - name: "CSS"
+    url: "https://techsheet.org/language/css"
+  - name: "JavaScript"
+    url: "https://techsheet.org/language/javascript"
+frameworks:
+  - name: "Express"
+    url: "https://techsheet.org/framework/express"
+    category: "Application"
+    version: "4.16.1"
+services: []
+tools:
+  - name: "NPM"
+    url: "https://techsheet.org/tool/npm"
+    category: "Build"
+  - name: "Node.js"
+    url: "https://techsheet.org/tool/nodejs"
+    category: "Runtime"
