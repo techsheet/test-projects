@@ -1,14 +1,16 @@
 schema: 1
 meta:
-  generatedAt: "2026-04-23T06:24:29.378604785Z"
+  generatedAt: "2026-04-24T14:16:59.881738704Z"
   generatorVersion: "0.8.0"
 languages:
-  - name: "C++"
+  - id: "language.cpp"
+    name: "C++"
     url: "https://techsheet.org/language/cpp"
 frameworks:
-  - name: "Qt"
-    url: "https://techsheet.org/framework/qt"
+  - id: "framework.qt"
+    name: "Qt"
     category: "Application"
+    url: "https://techsheet.org/framework/qt"
     version: "6"
 services: []
 tools: []

@@ -1,14 +1,16 @@
 schema: 1
 meta:
-  generatedAt: "2026-04-23T06:24:27.125467834Z"
+  generatedAt: "2026-04-24T14:16:58.354923716Z"
   generatorVersion: "0.8.0"
 languages:
-  - name: "Python"
+  - id: "language.python"
+    name: "Python"
     url: "https://techsheet.org/language/python"
 frameworks:
-  - name: "Flask"
-    url: "https://techsheet.org/framework/flask"
+  - id: "framework.flask"
+    name: "Flask"
     category: "Application"
+    url: "https://techsheet.org/framework/flask"
     version: "3.0.3"
 services: []
 tools: []

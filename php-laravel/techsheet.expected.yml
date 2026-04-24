@@ -1,21 +1,25 @@
 schema: 1
 meta:
-  generatedAt: "2026-04-23T06:24:13.984709461Z"
+  generatedAt: "2026-04-24T14:16:49.200766572Z"
   generatorVersion: "0.8.0"
 languages:
-  - name: "PHP"
+  - id: "language.php"
+    name: "PHP"
     url: "https://techsheet.org/language/php"
 frameworks:
-  - name: "Laravel"
-    url: "https://techsheet.org/framework/laravel"
+  - id: "framework.laravel"
+    name: "Laravel"
     category: "Application"
+    url: "https://techsheet.org/framework/laravel"
     version: "11.5.2"
-  - name: "PHPUnit"
-    url: "https://techsheet.org/framework/phpunit"
+  - id: "framework.phpunit"
+    name: "PHPUnit"
     category: "Testing"
+    url: "https://techsheet.org/framework/phpunit"
     version: "10.5"
 services: []
 tools:
-  - name: "Composer"
-    url: "https://techsheet.org/tool/composer"
+  - id: "tool.composer"
+    name: "Composer"
     category: "Build"
+    url: "https://techsheet.org/tool/composer"
