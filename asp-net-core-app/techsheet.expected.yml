@@ -1,14 +1,16 @@
 schema: 1
 meta:
-  generatedAt: "2026-04-23T06:23:57.810672059Z"
-  generatorVersion: "0.8.0"
+  generatedAt: "2026-05-04T08:49:54.277142023Z"
+  generatorVersion: "0.9.1"
 languages:
-  - name: "C#"
+  - id: "language.csharp"
+    name: "C#"
     url: "https://techsheet.org/language/csharp"
 frameworks:
-  - name: "ASP.NET Core"
-    url: "https://techsheet.org/framework/asp-net-core"
+  - id: "framework.asp-net-core"
+    name: "ASP.NET Core"
     category: "Application"
+    url: "https://techsheet.org/framework/asp-net-core"
     version: "9.0"
 services: []
 tools: []
