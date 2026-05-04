@@ -1,7 +1,7 @@
 schema: 1
 meta:
-  generatedAt: "2026-04-24T14:16:46.419776334Z"
-  generatorVersion: "0.8.0"
+  generatedAt: "2026-05-04T08:50:02.691006635Z"
+  generatorVersion: "0.9.1"
 languages:
   - id: "language.css"
     name: "CSS"
@@ -31,6 +31,10 @@ frameworks:
     version: "4"
 services: []
 tools:
+  - id: "tool.claude"
+    name: "Claude"
+    category: "AI"
+    url: "https://techsheet.org/tool/claude"
   - id: "tool.npm"
     name: "NPM"
     category: "Build"

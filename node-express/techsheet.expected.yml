@@ -1,7 +1,7 @@
 schema: 1
 meta:
-  generatedAt: "2026-04-24T14:16:47.820413631Z"
-  generatorVersion: "0.8.0"
+  generatedAt: "2026-05-04T08:50:04.097608555Z"
+  generatorVersion: "0.9.1"
 languages:
   - id: "language.css"
     name: "CSS"
