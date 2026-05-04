@@ -1,6 +1,6 @@
 schema: 1
 meta:
-  generatedAt: "2026-05-04T08:49:59.174282164Z"
+  generatedAt: "2026-05-04T11:12:33.015657508Z"
   generatorVersion: "0.9.1"
 languages:
   - id: "language.java"

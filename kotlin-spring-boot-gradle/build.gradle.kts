@@ -3,6 +3,7 @@ plugins {
 	alias(libs.plugins.kotlinSpring)
 	alias(libs.plugins.springBoot)
 	alias(libs.plugins.springDependencyManagement)
+	alias(libs.plugins.ktlint)
 }
 
 group = "com.example"

@@ -1,6 +1,6 @@
 schema: 1
 meta:
-  generatedAt: "2026-05-04T08:50:01.037290808Z"
+  generatedAt: "2026-05-04T11:12:34.436446719Z"
   generatorVersion: "0.9.1"
 languages:
   - id: "language.kotlin"
@@ -29,6 +29,11 @@ tools:
     url: "https://techsheet.org/tool/gradle"
     version: "9.4.1"
     flavor: "Kotlin DSL"
+  - id: "tool.ktlint"
+    name: "ktlint"
+    category: "Format"
+    url: "https://techsheet.org/tool/ktlint"
+    version: "14.2.0"
   - id: "tool.jvm"
     name: "JVM"
     category: "Runtime"

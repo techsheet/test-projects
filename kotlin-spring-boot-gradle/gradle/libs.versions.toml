@@ -1,10 +1,12 @@
 [versions]
 kotlin = "2.2.21"
+ktlint = "14.2.0"
 sb = "4.0.5"
 springDependencyManagement = "1.1.7"
 
 [plugins]
 kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kotlinSpring = { id = "org.jetbrains.kotlin.plugin.spring", version.ref = "kotlin" }
+ktlint = { id = "org.jlleitschuh.gradle.ktlint", version.ref = "ktlint" }
 springBoot = { id = "org.springframework.boot", version.ref = "sb" }
 springDependencyManagement = { id = "io.spring.dependency-management", version.ref = "springDependencyManagement" }
