@@ -1,7 +1,7 @@
 schema: 1
-meta:
-  generatedAt: "2026-05-04T13:56:45.133193539Z"
-  generatorVersion: "1.0.0"
+project:
+  id: "12c94bac-f0a0-463b-a56f-59dbe3bb04b6"
+  name: "unknown"
 languages:
   - id: "language.cpp"
     name: "C++"

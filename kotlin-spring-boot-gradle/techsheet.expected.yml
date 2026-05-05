@@ -1,7 +1,7 @@
 schema: 1
-meta:
-  generatedAt: "2026-05-04T13:56:30.476171041Z"
-  generatorVersion: "1.0.0"
+project:
+  id: "3725f35f-f04b-478a-9eff-1a2a721ea24f"
+  name: "unknown"
 languages:
   - id: "language.kotlin"
     name: "Kotlin"

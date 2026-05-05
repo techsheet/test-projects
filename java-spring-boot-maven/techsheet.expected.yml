@@ -1,7 +1,7 @@
 schema: 1
-meta:
-  generatedAt: "2026-05-04T13:56:29.037313560Z"
-  generatorVersion: "1.0.0"
+project:
+  id: "e3c883d3-ab4f-4b48-829d-b6cce9da724f"
+  name: "unknown"
 languages:
   - id: "language.java"
     name: "Java"

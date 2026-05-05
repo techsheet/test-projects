@@ -1,7 +1,7 @@
 schema: 1
-meta:
-  generatedAt: "2026-05-04T13:56:39.560558286Z"
-  generatorVersion: "1.0.0"
+project:
+  id: "23e8fb5b-c23f-48c0-b2a7-71439d646f4c"
+  name: "unknown"
 languages:
   - id: "language.typescript"
     name: "TypeScript"

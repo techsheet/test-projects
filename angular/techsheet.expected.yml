@@ -1,7 +1,7 @@
 schema: 1
-meta:
-  generatedAt: "2026-05-04T13:56:21.912573218Z"
-  generatorVersion: "1.0.0"
+project:
+  id: "25529d99-ccc3-48fd-a184-2ec017e89a42"
+  name: "unknown"
 languages:
   - id: "language.html"
     name: "HTML"

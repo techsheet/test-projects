@@ -1,7 +1,7 @@
 schema: 1
-meta:
-  generatedAt: "2026-05-04T13:56:23.647113190Z"
-  generatorVersion: "1.0.0"
+project:
+  id: "11d238c4-c0f9-45c5-8b41-d68219b2ffdf"
+  name: "unknown"
 languages:
   - id: "language.csharp"
     name: "C#"

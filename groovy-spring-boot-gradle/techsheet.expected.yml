@@ -1,7 +1,7 @@
 schema: 1
-meta:
-  generatedAt: "2026-05-04T13:56:27.014071382Z"
-  generatorVersion: "1.0.0"
+project:
+  id: "ca8ec4da-c20d-44af-9240-807167ea4bb9"
+  name: "unknown"
 languages:
   - id: "language.groovy"
     name: "Groovy"
