@@ -1,7 +1,7 @@
-schema: 1
+schema: 2
 project:
-  id: "d61a399a-5ae0-4130-9c02-73a72bcde9a4"
-  name: "unknown"
+  id: "9a1ff853-0d5a-4019-8f78-d6d64d212a67"
+  name: "unknown-project"
 languages:
   - id: "language.css"
     name: "CSS"

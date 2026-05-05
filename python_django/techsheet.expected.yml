@@ -1,7 +1,7 @@
-schema: 1
+schema: 2
 project:
-  id: "16fe38a3-c632-4eda-928d-7d6c1e180577"
-  name: "unknown"
+  id: "66781cb3-1cfb-4c9d-96fc-f8191bad164c"
+  name: "unknown-project"
 languages:
   - id: "language.python"
     name: "Python"

@@ -1,7 +1,7 @@
-schema: 1
+schema: 2
 project:
-  id: "e3c883d3-ab4f-4b48-829d-b6cce9da724f"
-  name: "unknown"
+  id: "5b4cff84-d117-4677-857c-b61c5ad43d50"
+  name: "unknown-project"
 languages:
   - id: "language.java"
     name: "Java"

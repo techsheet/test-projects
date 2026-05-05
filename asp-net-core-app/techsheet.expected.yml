@@ -1,7 +1,7 @@
-schema: 1
+schema: 2
 project:
-  id: "11d238c4-c0f9-45c5-8b41-d68219b2ffdf"
-  name: "unknown"
+  id: "04871361-f3eb-464c-ba2b-6e82177d1cc0"
+  name: "unknown-project"
 languages:
   - id: "language.csharp"
     name: "C#"
