@@ -1,7 +1,4 @@
 schema: 2
-project:
-  id: "e106a45f-efbc-4021-8ba1-e0efa16be3fa"
-  name: "unknown-project"
 languages:
   - id: "language.css"
     name: "CSS"

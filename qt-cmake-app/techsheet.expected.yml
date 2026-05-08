@@ -1,7 +1,4 @@
 schema: 2
-project:
-  id: "d83b652e-aba9-43c6-9b72-f6bcc54ea656"
-  name: "unknown-project"
 languages:
   - id: "language.cpp"
     name: "C++"

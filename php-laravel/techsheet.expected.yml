@@ -1,7 +1,4 @@
 schema: 2
-project:
-  id: "0750b21d-b4df-4733-a680-0f6417c5194e"
-  name: "unknown-project"
 languages:
   - id: "language.php"
     name: "PHP"

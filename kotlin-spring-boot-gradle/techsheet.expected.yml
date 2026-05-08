@@ -1,7 +1,4 @@
 schema: 2
-project:
-  id: "f32ba46b-6f69-4870-8a52-50c79e68dfc2"
-  name: "unknown-project"
 languages:
   - id: "language.kotlin"
     name: "Kotlin"

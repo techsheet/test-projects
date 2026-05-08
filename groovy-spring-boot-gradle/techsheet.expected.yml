@@ -1,7 +1,4 @@
 schema: 2
-project:
-  id: "8b792b24-ed13-48d4-bd87-5716acfb299f"
-  name: "unknown-project"
 languages:
   - id: "language.groovy"
     name: "Groovy"

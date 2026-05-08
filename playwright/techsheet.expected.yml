@@ -1,7 +1,4 @@
 schema: 2
-project:
-  id: "2f221856-2cad-42a5-94c6-7fc7cc29583b"
-  name: "unknown-project"
 languages:
   - id: "language.typescript"
     name: "TypeScript"

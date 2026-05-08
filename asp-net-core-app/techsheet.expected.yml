@@ -1,7 +1,4 @@
 schema: 2
-project:
-  id: "04871361-f3eb-464c-ba2b-6e82177d1cc0"
-  name: "unknown-project"
 languages:
   - id: "language.csharp"
     name: "C#"
