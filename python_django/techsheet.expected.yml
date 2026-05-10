@@ -6,7 +6,7 @@ languages:
 frameworks:
   - id: "framework.django"
     name: "Django"
-    category: "Application"
     url: "https://techsheet.org/framework/django"
+    category: "Application"
 services: []
 tools: []

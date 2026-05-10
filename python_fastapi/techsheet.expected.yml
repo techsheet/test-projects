@@ -7,8 +7,8 @@ languages:
 frameworks:
   - id: "framework.fastapi"
     name: "FastAPI"
-    category: "Application"
     url: "https://techsheet.org/framework/fastapi"
     version: "0.115.0"
+    category: "Application"
 services: []
 tools: []

@@ -6,8 +6,8 @@ languages:
 frameworks:
   - id: "framework.qt"
     name: "Qt"
-    category: "Application"
     url: "https://techsheet.org/framework/qt"
     version: "6"
+    category: "Application"
 services: []
 tools: []

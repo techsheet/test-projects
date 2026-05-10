@@ -6,17 +6,17 @@ languages:
 frameworks:
   - id: "framework.laravel"
     name: "Laravel"
-    category: "Application"
     url: "https://techsheet.org/framework/laravel"
     version: "11.5.2"
+    category: "Application"
   - id: "framework.phpunit"
     name: "PHPUnit"
-    category: "Testing"
     url: "https://techsheet.org/framework/phpunit"
     version: "10.5"
+    category: "Testing"
 services: []
 tools:
   - id: "tool.composer"
     name: "Composer"
-    category: "Build"
     url: "https://techsheet.org/tool/composer"
+    category: "Build"

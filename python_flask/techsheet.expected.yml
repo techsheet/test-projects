@@ -6,8 +6,8 @@ languages:
 frameworks:
   - id: "framework.flask"
     name: "Flask"
-    category: "Application"
     url: "https://techsheet.org/framework/flask"
     version: "3.0.3"
+    category: "Application"
 services: []
 tools: []

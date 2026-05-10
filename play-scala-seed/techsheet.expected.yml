@@ -16,17 +16,17 @@ languages:
 frameworks:
   - id: "framework.play-framework"
     name: "Play Framework"
-    category: "Application"
     url: "https://techsheet.org/framework/play-framework"
     version: "3.0.10"
+    category: "Application"
 services: []
 tools:
   - id: "tool.sbt"
     name: "SBT"
-    category: "Build"
     url: "https://techsheet.org/tool/sbt"
     version: "1.12.9"
+    category: "Build"
   - id: "tool.git"
     name: "Git"
-    category: "VCS"
     url: "https://techsheet.org/tool/git"
+    category: "VCS"

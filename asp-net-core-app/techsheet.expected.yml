@@ -6,8 +6,8 @@ languages:
 frameworks:
   - id: "framework.asp-net-core"
     name: "ASP.NET Core"
-    category: "Application"
     url: "https://techsheet.org/framework/asp-net-core"
     version: "9.0"
+    category: "Application"
 services: []
 tools: []
